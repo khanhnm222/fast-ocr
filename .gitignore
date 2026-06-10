@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+saved_models/*.keras
+saved_models/*.h5
+saved_models/*.png
+
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+!tests/fixtures/
